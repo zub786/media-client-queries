@@ -1,0 +1,7 @@
+{
+    "query":"SELECT * FROM media_spectrum.onclusive_data LIMIT 10",
+    "twitter_handles":"@test",
+    "keywords":"test",
+    "logo_id": 12345,
+    "client_name" "allstate"
+  }
